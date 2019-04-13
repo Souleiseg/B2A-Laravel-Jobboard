@@ -1,4 +1,3 @@
-# Laravel Php Project
 ![alt text](https://miro.medium.com/max/1400/1*_-vJQqeCmpw-kghDFX8yJw.png)
 ## Objectif
 
