@@ -1,5 +1,5 @@
 # Laravel Php Project
-
+![alt text](https://jf-blog.fr/wp-content/uploads/2018/07/laravel-logo.png)
 ## Objectif
 
 Réaliser une plateforme en ligne pour poster ou postuler à des offres d'emplois.<br />
